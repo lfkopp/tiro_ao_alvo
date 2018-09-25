@@ -3,3 +3,4 @@ Esse projeto identifica o ponto mais luminoso em um arquivo de imagem .dib. Pode
 ![alt text](/1.dib)
 ![alt text](/2.dib)
 ![alt text](/3.dib)
+![alt text](/4.dib)
